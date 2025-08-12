@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/BlockCoinY/static/css/main.738da6e0.css",
-    "main.js": "/BlockCoinY/static/js/main.d4b19f52.js",
+    "main.css": "/BlockCoinY/static/css/main.a484f987.css",
+    "main.js": "/BlockCoinY/static/js/main.c3572992.js",
     "static/css/429.ae747367.chunk.css": "/BlockCoinY/static/css/429.ae747367.chunk.css",
     "static/js/429.f0432fc0.chunk.js": "/BlockCoinY/static/js/429.f0432fc0.chunk.js",
     "static/css/231.659d2ee9.chunk.css": "/BlockCoinY/static/css/231.659d2ee9.chunk.css",
@@ -15,8 +15,8 @@
     "static/css/754.da03c768.chunk.css": "/BlockCoinY/static/css/754.da03c768.chunk.css",
     "static/js/754.940c586b.chunk.js": "/BlockCoinY/static/js/754.940c586b.chunk.js",
     "index.html": "/BlockCoinY/index.html",
-    "main.738da6e0.css.map": "/BlockCoinY/static/css/main.738da6e0.css.map",
-    "main.d4b19f52.js.map": "/BlockCoinY/static/js/main.d4b19f52.js.map",
+    "main.a484f987.css.map": "/BlockCoinY/static/css/main.a484f987.css.map",
+    "main.c3572992.js.map": "/BlockCoinY/static/js/main.c3572992.js.map",
     "429.ae747367.chunk.css.map": "/BlockCoinY/static/css/429.ae747367.chunk.css.map",
     "429.f0432fc0.chunk.js.map": "/BlockCoinY/static/js/429.f0432fc0.chunk.js.map",
     "231.659d2ee9.chunk.css.map": "/BlockCoinY/static/css/231.659d2ee9.chunk.css.map",
@@ -31,7 +31,7 @@
     "754.940c586b.chunk.js.map": "/BlockCoinY/static/js/754.940c586b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.738da6e0.css",
-    "static/js/main.d4b19f52.js"
+    "static/css/main.a484f987.css",
+    "static/js/main.c3572992.js"
   ]
 }
